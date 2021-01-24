@@ -3,6 +3,7 @@ title: "Skills"
 date: 2020-11-20T10:39:03+02:00
 draft: false
 ---
+Skill levels: **novice** - **intermediate** - **skilled** - **professional** - **expert**
 
 ### Photography
 I have over 5 years experience in photography, which was the main driving force towards video production and film. I have mainly photographed wildlife, but have experience in experimental, pet and fashion photography.
@@ -11,13 +12,13 @@ Skill Level: **Skilled**
 _____________________________________
 
 ### Videography/Camera Work
-I am quite proficient in operating cameras and visualising ideas that I have to bring the best images to life
+I am quite proficient in operating cameras and visualising ideas that I have to bring the best images to life. 
 
 Skill Level: **Intermediate**
 ____________________________________
 
 ### Editing
-I have many years experience in editing personal projects and for industry.
+I have many years experience in editing personal projects and some experience editing videos for industry.
 
 Skill Level: **Intermediate**
 ____________________________________
