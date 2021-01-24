@@ -22,16 +22,17 @@ I helped around, drove and worked with people to achieve everyday tasks
 such as building and setting up a computer, as well as driving around to get equipment needed for
 the business.
 ### LANGUAGES
-- English – speak fluently and read/write with native proficiency
-- Afrikaans – native language
+English– speak fluently and read/write with native proficiency
+Afrikaans– native language
 ### TECHNICAL SKILLS
 - Computer Hardware
-- Java fundamentals
-- Static web development
+- Java
+- Fundamental Android Development (Java)
+- HTML / CSS
 - Academic writing
 - Adobe Premier Pro / Similar
 - Photoshop / Krita / Similar
-
+- Structured Query Language (SQL)
 ### SOFT SKILLS
 - Attention to detail
 - Communication and articulation

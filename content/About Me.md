@@ -21,6 +21,6 @@ But I grew in my video creation skills, and started creating more experimental s
 
 [ ![Trapped](https://img.youtube.com/vi/k4g84zQaxWY/1.jpg)](https://www.youtube.com/watch?v=k4g84zQaxWY)
 
-And now I am busy with my own YouTube endeavour to create content for sheer pleasure and to help people with purchase decisions that you can find [here](https://www.youtube.com/channel/UCa-HIPH3bElMyLVBqt611Qw?view_as=subscriber)
+And now I am busy with my own YouTube endeavour to create content for shere pleasure and to help people with purchase decisions that you can find [here](https://www.youtube.com/channel/UCa-HIPH3bElMyLVBqt611Qw?view_as=subscriber)
 
 ### [Go Home](/)
